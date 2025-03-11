@@ -2,21 +2,6 @@
 
 This repository contains the source code for a deep learning–based landmark recognition system built with TensorFlow. The project covers the full pipeline from data preprocessing to model training, evaluation, and inference, and is designed with modularity and ease-of-use in mind.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-  - [Training](#training)
-  - [Evaluation](#evaluation)
-  - [Inference](#inference)
-- [Dataset](#dataset)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
